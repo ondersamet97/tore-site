@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+# Görünüm yönleri taslağı: çalışma belgesi, yayımlanmaz
+brand/yonler.html
