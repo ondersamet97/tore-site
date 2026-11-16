@@ -222,3 +222,8 @@ section p:last-child { margin-bottom: 0; }
   font-size: 14px;
   color: var(--muted);
 }
+
+/* Ekran görüntüleri: yapay örnekle gerçek arayüz */
+.shot { margin: 34px 0 0; }
+.shot img { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: 16px; }
+.shot figcaption { margin-top: 10px; font-size: 15px; color: var(--muted); }
