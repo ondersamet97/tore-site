@@ -180,6 +180,8 @@ section p:last-child { margin-bottom: 0; }
 
 @media (min-width: 800px) { .steps { grid-template-columns: repeat(3, 1fr); } }
 
+@media (min-width: 800px) { .steps.two { grid-template-columns: repeat(2, 1fr); } }
+
 .steps li {
   padding: 22px;
   background: var(--card);
