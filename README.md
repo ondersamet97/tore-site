@@ -12,4 +12,4 @@ töre is a personal knowledge tool in development. This repository contains only
 
 The site makes no external requests and has no tracking.
 
-© 2026 Önder Samet
+© 2026 the töre authors
